@@ -8,7 +8,7 @@
 
 - I'm Front-End Developer
 
-- All of my projects are available at [Abuzafer's work](https://github.com/abuzafertamboli/Front-End-Development)
+- All of my projects are available at [Abuzafer's work](https://github.com/abuzafertamboli?tab=repositories)
 
 - Reach me at - [Email](mailto:abutamboli7707@gmail.com)
 
